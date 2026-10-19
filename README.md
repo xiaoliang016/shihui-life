@@ -1,4 +1,6 @@
-# 高性能高并发商品秒杀系统设计与优化
+# 拾惠生活｜电商限时购与秒杀系统
+
+> 本仓库 fork 自 [Grootzz/seckill](https://github.com/Grootzz/seckill)，保留原项目历史记录。当前代码沿用上游实现；后续请将实际完成的改造和验证与原项目区分。
 
 [TOC]
 
